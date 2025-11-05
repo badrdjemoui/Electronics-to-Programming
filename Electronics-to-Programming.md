@@ -40,10 +40,7 @@ A complete roadmap to understand how a computer works — from electronics funda
 - SR, JK, D, T
 - **Project:** Build a binary counter
 
-```
-D ──> [FF] ──> Q
-clk ──^
-```
+![Diode Symbol](images/flipflops1.png)
 
 ---
 
