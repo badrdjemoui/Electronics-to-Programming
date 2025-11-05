@@ -48,11 +48,7 @@ A complete roadmap to understand how a computer works — from electronics funda
 - ALU, Control Unit, Registers
 - **Cycle:** Fetch → Decode → Execute
 
-```
-[Registers] → [ALU] → Output
-       ↑       ↓    
-   Control Unit
-```
+![Diode Symbol](images/cpu1.jpg)
 
 ---
 
