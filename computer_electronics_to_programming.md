@@ -80,9 +80,3 @@
 -   **مشروع:** برنامج بسيط باستخدام C
 
 ------------------------------------------------------------------------
-
-### ✅ Tags
-
-#electronics #transistors #diodes #logic_gates #flipflops #cpu #memory
-#binary #machine_language #assembly #c_language #computer_science
-#low_level_programming #hardware #programming_roadmap
