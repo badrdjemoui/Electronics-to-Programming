@@ -22,7 +22,7 @@ A complete roadmap to understand how a computer works — from electronics funda
 - **Function:** Switch or amplifier
 - **Exercise:** Drive a DC motor using a transistor
 
-```
+
 ![Diode Symbol](images/transistor1.jpg)
 
 ---
