@@ -12,7 +12,7 @@ A complete roadmap to understand how a computer works — from electronics funda
 
 ## 1️⃣ Diode
 
-![Diode Symbol](images/diod1.png)
+![Diode Symbol](images/diod1.jpg)
 
 
 ---
