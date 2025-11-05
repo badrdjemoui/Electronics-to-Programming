@@ -10,9 +10,7 @@ A complete roadmap to understand how a computer works — from electronics funda
 - **Applications:** Rectification, reverse-polarity protection
 - **Exercise:** Design a half-wave rectifier
 
-```
-(+) ──>|── (Load) ── (-)
-```
+
 
 ---
 
