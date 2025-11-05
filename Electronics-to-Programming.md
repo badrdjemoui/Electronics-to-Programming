@@ -10,7 +10,7 @@ A complete roadmap to understand how a computer works — from electronics funda
 - **Applications:** Rectification, reverse-polarity protection
 - **Exercise:** Design a half-wave rectifier
 
-## 1️⃣ Diode
+
 
 ![Diode Symbol](images/diod1.jpg)
 
@@ -23,12 +23,7 @@ A complete roadmap to understand how a computer works — from electronics funda
 - **Exercise:** Drive a DC motor using a transistor
 
 ```
- Vcc
-  |
- Motor
-  |
- Transistor ── GND
-```
+![Diode Symbol](images/transistor1.jpg)
 
 ---
 
