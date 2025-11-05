@@ -32,10 +32,7 @@ A complete roadmap to understand how a computer works — from electronics funda
 - Truth tables
 - **Examples:** Half Adder, Full Adder
 
-```
-A ---|&>--- Output
-B ---|
-```
+![Diode Symbol](images/gates1.jpg)
 
 ---
 
